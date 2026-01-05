@@ -1,15 +1,15 @@
-# 📝 ToDo-webApp
+# 📝 TaskForge
 
 <!-- Badges -->
-[![License](https://img.shields.io/github/license/Tej-Developer/ToDo-webApp?style=flat-square)](https://github.com/Tej-Developer/ToDo-webApp/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/Tej-Developer/ToDo-webApp?style=flat-square&logo=github)](https://github.com/Tej-Developer/ToDo-webApp/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Tej-Developer/ToDo-webApp?style=flat-square&logo=github)](https://github.com/Tej-Developer/ToDo-webApp/network)
-[![GitHub issues](https://img.shields.io/github/issues/Tej-Developer/ToDo-webApp?style=flat-square)](https://github.com/Tej-Developer/ToDo-webApp/issues)
-[![Last commit](https://img.shields.io/github/last-commit/Tej-Developer/ToDo-webApp?style=flat-square)](https://github.com/Tej-Developer/ToDo-webApp/commits)
+[![License](https://img.shields.io/github/license/Tej-Developer/TaskForge?style=flat-square)](https://github.com/Tej-Developer/TaskForge/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Tej-Developer/TaskForge?style=flat-square&logo=github)](https://github.com/Tej-Developer/TaskForge/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Tej-Developer/TaskForge?style=flat-square&logo=github)](https://github.com/Tej-Developer/TaskForge/network)
+[![GitHub issues](https://img.shields.io/github/issues/Tej-Developer/TaskForge?style=flat-square)](https://github.com/Tej-Developer/TaskForge/issues)
+[![Last commit](https://img.shields.io/github/last-commit/Tej-Developer/TaskForge?style=flat-square)](https://github.com/Tej-Developer/TaskForge/commits)
 
 A simple and interactive **To-Do web application** to help you manage daily tasks efficiently.
 
-🔗 **Live Demo:** https://tej-developer.github.io/ToDo-webApp/
+🔗 **Live Demo:** https://tej-developer.github.io/TaskForge/
 
 ---
 
@@ -28,7 +28,7 @@ A simple and interactive **To-Do web application** to help you manage daily task
 
 ## 📌 About The Project
 
-**ToDo-webApp** is a task-management web application built using **HTML**, **CSS**, and **JavaScript**. It allows users to **sign up**, **log in**, and manage their tasks through a clean dashboard UI. The app uses browser session storage, so data is temporary and resets when the tab is closed.
+**TaskForge** is a task-management web application built using **HTML**, **CSS**, and **JavaScript**. It allows users to **sign up**, **log in**, and manage their tasks through a clean dashboard UI. The app uses browser session storage, so data is temporary and resets when the tab is closed.
 
 This project is ideal for beginners learning client-side logic, DOM manipulation, and UI interactions without a backend.
 
@@ -69,7 +69,7 @@ Make sure you have:
 ### ⬇️ Clone the Repository
 
 ```bash
-git clone https://github.com/Tej-Developer/ToDo-webApp.git
+git clone https://github.com/Tej-Developer/TaskForge.git
 ````
 
 ---
@@ -79,7 +79,7 @@ git clone https://github.com/Tej-Developer/ToDo-webApp.git
 Navigate into the project folder and open the `index.html` file in your browser:
 
 ```bash
-cd ToDo-webApp
+cd TaskForge
 open index.html
 ```
 
@@ -102,7 +102,7 @@ open index.html
 ## 📁 Project Structure
 
 ```
-📦 ToDo-webApp
+📦 TaskForge
  ┣ 📂 css
  ┣ 📂 img
  ┣ 📂 js
