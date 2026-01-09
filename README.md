@@ -103,13 +103,23 @@ open index.html
 
 ```
 📦 TaskForge
- ┣ 📂 css
- ┣ 📂 img
- ┣ 📂 js
+ ┣ 📂 css/
+   ┣ 📂 contact.css
+   ┣ 📂 dashboard.css
+   ┣ 📂 entry-page.css
+   ┣ 📂 login.css
+   ┣ 📂 main.css
+ ┣ 📂 img/
+ ┣ 📂 js/
+   ┣ 📂 contact.js
+   ┣ 📂 dashboard-auth.js
+   ┣ 📂 dashboard.js
+   ┣ 📂 main.js
  ┣ 📜 index.html
  ┣ 📜 login.html
  ┣ 📜 signup.html
  ┣ 📜 dashboard.html
+ ┣ 📜 contact.html
  ┣ 📜 README.md
 ```
 
